@@ -1,0 +1,1 @@
+import React from "react";import Admissions from "../components/Admissions"; export default function AdmissionsPage(){return <><section className="page-hero"><div className="container"><span className="eyebrow">ADMISSIONS</span><h1>Start your TIT journey.</h1><p>Explore the admission process and prepare your next step.</p></div></section><Admissions/></>}

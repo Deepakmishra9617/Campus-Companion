@@ -1,0 +1,1 @@
+import React from "react";import Contact from "../components/Contact"; export default function ContactPage(){return <><section className="page-hero"><div className="container"><span className="eyebrow">CONTACT</span><h1>Let's connect with TIT.</h1><p>Questions about programs, admissions or campus life?</p></div></section><Contact/></>}

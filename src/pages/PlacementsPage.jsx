@@ -1,0 +1,1 @@
+import React from "react";import Placements from "../components/Placements"; export default function PlacementsPage(){return <><section className="page-hero"><div className="container"><span className="eyebrow">PLACEMENTS</span><h1>From classroom to career.</h1><p>Showcase verified placement outcomes, recruiters and career support.</p></div></section><Placements/></>}
